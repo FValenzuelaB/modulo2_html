@@ -1,0 +1,21 @@
+
+header {
+    text-align:center;
+    color: black;
+    font-size:medium;
+}
+
+nav ul p {
+    color: black;
+    display: inline-block;
+    text-align:center;
+}
+
+.pipe_nav {
+    color: black;
+    font-size:medium;
+}
+
+#nombre_principal {
+    background-color:rgb(86, 169, 99);
+}
