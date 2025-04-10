@@ -10,6 +10,13 @@ header {
     margin: auto;
 }
 
+h1 {
+    color: beige;
+}
+
+body {
+    background-color: rgba(251, 241, 241, 0.752);
+}
 
 nav ul p{
     display: inline-block;
@@ -24,5 +31,5 @@ nav ul p{
 }
 
 #nombre_principal {
-    background-color:rgb(86, 169, 99);
+    background-color:rgb(5, 13, 161);
 }
