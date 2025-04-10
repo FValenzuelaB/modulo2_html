@@ -18,12 +18,12 @@ body {
     background-color: rgba(251, 241, 241, 0.752);
 }
 
-nav ul p{
+nav ul p {
     display: inline-block;
-    margin: auto;
-    text-align:center;
-    color: black;
+    list-style-type: none;
+    text-align: center;
 }
+
 
 .pipe_nav {
     color: black;
