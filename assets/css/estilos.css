@@ -5,6 +5,12 @@ header {
     font-size:medium;
 }
 
+#foto_principal { 
+    display: block;
+    margin: auto;
+}
+
+
 nav ul p {
     color: black;
     display: inline-block;
