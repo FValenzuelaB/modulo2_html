@@ -11,10 +11,11 @@ header {
 }
 
 
-nav ul p {
-    color: black;
+nav ul p{
     display: inline-block;
+    margin: auto;
     text-align:center;
+    color: black;
 }
 
 .pipe_nav {
