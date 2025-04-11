@@ -1,3 +1,23 @@
+@import 
+
+* {
+    box-sizing:border-box;
+    margin: 0;
+    padding: 10px;
+}
+
+html body {
+    height: 100%;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    main-height: 100%;
+
+}
+
+
 
 header {
     text-align:center;
@@ -18,12 +38,16 @@ body {
     background-color: rgba(251, 241, 241, 0.752);
 }
 
-nav ul p {
+nav p {
     display: inline-block;
     list-style-type: none;
     text-align: center;
+    padding: 80px;
 }
 
+.section {
+    box-shadow: 1px 1px 1px rgb(0, 0, 0);
+}
 
 .pipe_nav {
     color: black;
@@ -32,4 +56,9 @@ nav ul p {
 
 #nombre_principal {
     background-color:rgb(5, 13, 161);
+}
+
+#cargo_principal {
+    font-size:large;
+    font: weight 20px;
 }
